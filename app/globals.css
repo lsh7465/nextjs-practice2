@@ -9,6 +9,10 @@
   margin-bottom: 5px;
   box-shadow: rgb(224, 224, 224) 0px 2px 4px 0px;
 }
+.list-itemLink {
+  text-decoration: none;
+  color: inherit;
+}
 .list-item h4 {
   font-size: 20px;
   font-weight: 800;
